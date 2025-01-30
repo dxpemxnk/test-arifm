@@ -1,2 +1,2 @@
 # test-arifm
-calculate numbers
+calculate 200 or anythig else
